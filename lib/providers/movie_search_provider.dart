@@ -21,7 +21,7 @@ class MovieSearchProvider with ChangeNotifier {
       headers: {
         'accept': 'application/json',
         'Authorization':
-            'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYWY4NmRhZGM1NTNlYmI5MGFiNmQ1MzM0MjVhOTk0OCIsIm5iZiI6MTcyOTczNzU4MC42MjkyODYsInN1YiI6IjY1ZWIxNmVmZTYyNzE5MDE3YzViNzVjNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.q9w_jP2KBDYAcPSsftnHxTM1rAUrK0E-P3LgZt-3Pkw'
+            'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYjEzZGQ1YTRiNzIxM2VjNGVmY2EwN2NhMTM5NjFmYSIsIm5iZiI6MTczMDAzNDczMS4yMDM4NjEsInN1YiI6IjY3MWUzOWY4NDI3YzVjMTlmMDI2NDFkOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pcbUlIzGPVa0bBcQs9jAJLu4asJMZz3H1emUQ2R73yQ'
       },
     );
 
@@ -53,7 +53,7 @@ class MovieSearchProvider with ChangeNotifier {
       headers: {
         'accept': 'application/json',
         'Authorization':
-            'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYWY4NmRhZGM1NTNlYmI5MGFiNmQ1MzM0MjVhOTk0OCIsIm5iZiI6MTcyOTczNzU4MC42MjkyODYsInN1YiI6IjY1ZWIxNmVmZTYyNzE5MDE3YzViNzVjNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.q9w_jP2KBDYAcPSsftnHxTM1rAUrK0E-P3LgZt-3Pkw'
+            'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYjEzZGQ1YTRiNzIxM2VjNGVmY2EwN2NhMTM5NjFmYSIsIm5iZiI6MTczMDAzNDczMS4yMDM4NjEsInN1YiI6IjY3MWUzOWY4NDI3YzVjMTlmMDI2NDFkOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pcbUlIzGPVa0bBcQs9jAJLu4asJMZz3H1emUQ2R73yQ'
       },
     );
 
