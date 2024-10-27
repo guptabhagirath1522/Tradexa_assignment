@@ -1,16 +1,12 @@
-# app_assignment
+# Movie_Search_App
 
-A new Flutter project.
+A Flutter application that allows users to search for movies and view popular movies, fetching data from The Movie Database (TMDb) API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Movie Search**: Users can search for movies by entering a query, which retrieves relevant movies from the TMDb API.
+- **Popular Movies**: Displays a list of popular movies based on current trends from the TMDb API.
+- **Responsive UI**: User-friendly interface designed with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
